@@ -1,0 +1,70 @@
+[
+    {
+        "shape_slat": "./data_toolkit/assets/full_seg/shape_slat.pth",
+        "input_tex_slat": "./data_toolkit/assets/full_seg/input_tex_slat.pth",
+        "output_tex_slat_gt": "./data_toolkit/assets/full_seg/output_tex_slat.pth",
+        "cond": "./data_toolkit/assets/cond.pth",
+        "colors": [
+            [
+                8,
+                135,
+                96,
+                255
+            ],
+            [
+                162,
+                100,
+                61,
+                255
+            ],
+            [
+                27,
+                36,
+                123,
+                255
+            ],
+            [
+                239,
+                209,
+                143,
+                255
+            ],
+            [
+                156,
+                87,
+                58,
+                255
+            ],
+            [
+                177,
+                39,
+                168,
+                255
+            ],
+            [
+                84,
+                91,
+                11,
+                255
+            ],
+            [
+                63,
+                161,
+                164,
+                255
+            ],
+            [
+                218,
+                67,
+                176,
+                255
+            ],
+            [
+                19,
+                249,
+                130,
+                255
+            ]
+        ]
+    }
+]

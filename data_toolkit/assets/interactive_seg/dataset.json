@@ -1,0 +1,10 @@
+[
+    {
+        "shape_slat": "./data_toolkit/assets/interactive_seg/0/shape_slat.pth",
+        "input_tex_slat": "./data_toolkit/assets/interactive_seg/0/input_tex_slat.pth",
+        "output_tex_slat_gt": "./data_toolkit/assets/interactive_seg/0/output_tex_slat.pth",
+        "cond": "./data_toolkit/assets/cond.pth",
+        "input_points": "./data_toolkit/assets/interactive_seg/0/point_{point_num}.pth",
+        "max_point_num": 10
+    }
+]

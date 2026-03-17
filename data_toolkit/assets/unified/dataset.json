@@ -1,0 +1,151 @@
+[
+    {
+        "shape_slat": "./data_toolkit/assets/interactive_seg/0/shape_slat.pth",
+        "input_tex_slat": "./data_toolkit/assets/interactive_seg/0/input_tex_slat.pth",
+        "output_tex_slat_gt": "./data_toolkit/assets/interactive_seg/0/output_tex_slat.pth",
+        "cond": "./data_toolkit/assets/cond.pth",
+        "input_points": "./data_toolkit/assets/interactive_seg/0/point_{point_num}.pth",
+        "max_point_num": 10,
+        "tag": 0
+    },
+    {
+        "shape_slat": "./data_toolkit/assets/full_seg/shape_slat.pth",
+        "input_tex_slat": "./data_toolkit/assets/full_seg/input_tex_slat.pth",
+        "output_tex_slat_gt": "./data_toolkit/assets/full_seg/output_tex_slat.pth",
+        "cond": "./data_toolkit/assets/cond.pth",
+        "colors": [
+            [
+                8,
+                135,
+                96,
+                255
+            ],
+            [
+                162,
+                100,
+                61,
+                255
+            ],
+            [
+                27,
+                36,
+                123,
+                255
+            ],
+            [
+                239,
+                209,
+                143,
+                255
+            ],
+            [
+                156,
+                87,
+                58,
+                255
+            ],
+            [
+                177,
+                39,
+                168,
+                255
+            ],
+            [
+                84,
+                91,
+                11,
+                255
+            ],
+            [
+                63,
+                161,
+                164,
+                255
+            ],
+            [
+                218,
+                67,
+                176,
+                255
+            ],
+            [
+                19,
+                249,
+                130,
+                255
+            ]
+        ],
+        "max_point_num": 0,
+        "tag": 1
+    },
+    {
+        "shape_slat": "./data_toolkit/assets/full_seg_w_2d_map/shape_slat.pth",
+        "input_tex_slat": "./data_toolkit/assets/full_seg_w_2d_map/input_tex_slat.pth",
+        "output_tex_slat_gt": "./data_toolkit/assets/full_seg_w_2d_map/output_tex_slat.pth",
+        "cond": ",/data_toolkit/assets/full_seg_w_2d_map/cond.pth",
+        "colors": [
+            [
+                127,
+                246,
+                192,
+                255
+            ],
+            [
+                135,
+                71,
+                55,
+                255
+            ],
+            [
+                191,
+                0,
+                186,
+                255
+            ],
+            [
+                133,
+                248,
+                196,
+                255
+            ],
+            [
+                221,
+                224,
+                9,
+                255
+            ],
+            [
+                45,
+                8,
+                125,
+                255
+            ],
+            [
+                196,
+                124,
+                4,
+                255
+            ],
+            [
+                6,
+                79,
+                113,
+                255
+            ],
+            [
+                207,
+                55,
+                87,
+                255
+            ],
+            [
+                75,
+                201,
+                50,
+                255
+            ]
+        ],
+        "max_point_num": 0,
+        "tag": 2
+    }
+]
